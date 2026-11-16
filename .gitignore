@@ -1,0 +1,48 @@
+# =============================================================
+#  Voice Assistant v2.0 - Git Ignore Rules
+# =============================================================
+
+# ----- SECRET / SENSITIVE FILES (NEVER commit these) -----
+.env
+*.env
+secrets.py
+config_private.py
+*.pem
+*.key
+*.p12
+
+# ----- Python virtual environment -----
+.venv/
+venv/
+env/
+ENV/
+
+# ----- Python cache -----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# ----- ML model (large binary, regenerate with train_model.py) -----
+models/*.joblib
+models/*.pkl
+models/*.h5
+
+# ----- Screenshot output folder -----
+screenshots/
+
+# ----- OS files -----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----- IDE files -----
+.vscode/settings.json
+.idea/
+*.suo
+*.user
+
+# ----- Logs -----
+*.log
+logs/

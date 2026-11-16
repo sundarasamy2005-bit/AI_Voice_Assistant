@@ -1,0 +1,211 @@
+text,intant
+hello,greeting
+hi there,greeting
+good morning,greeting
+good afternoon,greeting
+good evening,greeting
+hey assistant,greeting
+hello assistant,greeting
+hey there,greeting
+hi assistant,greeting
+greetings,greeting
+what's up,greeting
+howdy,greeting
+namaste,greeting
+vanakkam,greeting
+hey,greeting
+hi,greeting
+what time is it,get_time
+tell me the current time,get_time
+can you tell the time,get_time
+give me the time,get_time
+tell me the time,get_time
+current time please,get_time
+can you show the time,get_time
+what is the time now,get_time
+time please,get_time
+clock time,get_time
+what hour is it,get_time
+what is today's date,get_date
+tell me the date,get_date
+show today's date,get_date
+what date is it,get_date
+today's date,get_date
+what is the date today,get_date
+current date,get_date
+date today,get_date
+what day is it today,get_date
+what is today,get_date
+open youtube,open_youtube
+launch youtube,open_youtube
+go to youtube,open_youtube
+show me youtube,open_youtube
+please open youtube,open_youtube
+youtube please,open_youtube
+take me to youtube,open_youtube
+search python tutorials,web_search
+find machine learning tutorials,web_search
+search for coding courses,web_search
+look up artificial intelligence,web_search
+search python tutorial,web_search
+search for python tutorial,web_search
+find python tutorials,web_search
+look up python programming,web_search
+search news,web_search
+find latest news,web_search
+search for weather,web_search
+look up cricket score,web_search
+goodbye,exit
+good bye,exit
+bye,exit
+bye assistant,exit
+see you later,exit
+stop assistant,exit
+quit,exit
+close assistant,exit
+exit,exit
+stop,exit
+exit the assistant,exit
+close the assistant,exit
+talk to you later,exit
+shut down,exit
+that's all,exit
+i'm done,exit
+open chrome,open_app
+launch chrome,open_app
+open google chrome,open_app
+start chrome,open_app
+open notepad,open_app
+launch notepad,open_app
+open calculator,open_app
+launch calculator,open_app
+open paint,open_app
+launch paint,open_app
+open file explorer,open_app
+open explorer,open_app
+open vs code,open_app
+launch vs code,open_app
+open visual studio code,open_app
+open task manager,open_app
+launch task manager,open_app
+open word,open_app
+open excel,open_app
+open powerpoint,open_app
+open an application,open_app
+launch an app,open_app
+run notepad,open_app
+start calculator,open_app
+open downloads folder,open_folder
+open documents folder,open_folder
+open desktop folder,open_folder
+show my downloads,open_folder
+go to documents,open_folder
+open my files,open_folder
+show downloads,open_folder
+open pictures folder,open_folder
+navigate to documents,open_folder
+browse my folders,open_folder
+increase volume,volume_up
+volume up,volume_up
+turn up the volume,volume_up
+make it louder,volume_up
+louder please,volume_up
+raise the volume,volume_up
+higher volume,volume_up
+decrease volume,volume_down
+volume down,volume_down
+turn down the volume,volume_down
+make it quieter,volume_down
+quieter please,volume_down
+lower the volume,volume_down
+reduce volume,volume_down
+mute,volume_mute
+mute the volume,volume_mute
+silence please,volume_mute
+turn off sound,volume_mute
+no sound,volume_mute
+unmute,volume_unmute
+unmute the volume,volume_unmute
+turn on sound,volume_unmute
+restore sound,volume_unmute
+take a screenshot,screenshot
+capture the screen,screenshot
+screenshot please,screenshot
+take screenshot,screenshot
+capture screen,screenshot
+save screenshot,screenshot
+snap the screen,screenshot
+screen capture,screenshot
+what is python,ask_ai
+explain machine learning,ask_ai
+what is artificial intelligence,ask_ai
+explain recursion,ask_ai
+what is a function,ask_ai
+explain object oriented programming,ask_ai
+what is a variable,ask_ai
+how does the internet work,ask_ai
+what is a database,ask_ai
+explain algorithms,ask_ai
+what is data science,ask_ai
+tell me about neural networks,ask_ai
+what is cloud computing,ask_ai
+explain api,ask_ai
+what is an array,ask_ai
+how does python work,ask_ai
+what is javascript,ask_ai
+explain loops,ask_ai
+what is a class,ask_ai
+explain inheritance,ask_ai
+answer my question,ask_ai
+can you help me understand,ask_ai
+give me information about,ask_ai
+tell me about,ask_ai
+what do you know about,ask_ai
+summarize this text,summarize
+give me a summary,summarize
+can you summarize,summarize
+make it shorter,summarize
+give a brief overview,summarize
+tldr,summarize
+shorten this,summarize
+condense this,summarize
+brief me,summarize
+give me the highlights,summarize
+வணக்கம்,greeting
+ஹலோ,greeting
+வணக்கம் அசிஸ்டன்ட்,greeting
+காலை வணக்கம்,greeting
+மதிய வணக்கம்,greeting
+மாலை வணக்கம்,greeting
+மணி என்ன,get_time
+இப்போது நேரம் என்ன,get_time
+நேரம் சொல்,get_time
+இன்றைய தேதி என்ன,get_date
+தேதி என்ன,get_date
+யூடியூப் திற,open_youtube
+யூடியூப் ஓபன் செய்,open_youtube
+யூடியூப்,open_youtube
+தேடு,web_search
+கூகுளில் தேடு,web_search
+பைத்தான் பற்றி சொல்,ask_ai
+மெஷின் லேர்னிங் என்றால் என்ன,ask_ai
+செயற்கை நுண்ணறிவு என்றால் என்ன,ask_ai
+ஸ்கிரீன்ஷாட் எடு,screenshot
+வால்யூம் கூட்டு,volume_up
+வால்யூம் குறை,volume_down
+சத்தத்தை குறை,volume_down
+சத்தத்தை கூட்டு,volume_up
+மியூட் செய்,volume_mute
+அன்மியூட் செய்,volume_unmute
+நோட்பேட் திற,open_app
+கால்குலேட்டர் திற,open_app
+முடிந்தது,exit
+வெளியேறு,exit
+பை,exit
+குட்பை,exit
+நன்றி,exit
+stop,exit
+exit,exit
+thank you,exit
+thankyou,exit
+
